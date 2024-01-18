@@ -1,5 +1,7 @@
-以下の講義に関する内容のリポジトリ。
+以下の講義に関する内容のリポジトリ。  
 https://www.udemy.com/course/ios-apps/
+
+## フォルダ構成
 
 ### FirstXcode.xcodeproj
 storyboardで作成したサンプルアプリ。
